@@ -12,7 +12,7 @@ Proficient in Java, C#, Dart, C++, Swift, HTML, CSS, JS, and PHP, I offer versat
 - 🌱 I’m currently learning [Current Learning Focus]
 - 👯 I’m looking to collaborate on [Open Source Projects]
 - 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: darshanjasoliya04@outlook.com, https://www.linkedin.com/in/darshan-jasoliya-74b3a6193, [Twitter Handle]
+- 📫 How to reach me: darshanjasoliya04@outlook.com, https://www.linkedin.com/in/darshan-jasoliya-74b3a6193.
 
 ## Tech Stack
 
@@ -26,9 +26,23 @@ Proficient in Java, C#, Dart, C++, Swift, HTML, CSS, JS, and PHP, I offer versat
 
 Here are some projects I'm proud of:
 
-- [Project 1](Link to Project 1) - Brief description
-- [Project 2](Link to Project 2) - Brief description
-- ...
+- Expense Manager (IOS)
+ • An Expense management application developed in XCode using SWIFT.
+ • Add or remove day to day expense in app.
+ • Service to view an overview of expenses by month wise.
+ • Learnt the proper architecture of IOS app development
+
+- Online glossary store (React)
+ • A React Native Ecommerce website to purchase vegetables online.
+ • Used react for front-end development and PHP for back-end.
+ • Got familiar with different react component and third part libraries.
+ • Able to communicate between client and server.
+
+- Wallz : 8k Wallpaper – HD, 4k (Flutter)
+ • Collection of eye-catching 8k images for Android.
+ • Functioned to set image as wallpaper for both lock and home screen.
+ • Learnt to fetch images using RESTApi, and local database to store favorite images.
+ • Very user friendly in performance and interface.
 
 ## GitHub Stats
 
@@ -36,17 +50,9 @@ Here are some projects I'm proud of:
 
 ## Connect with Me
 
-- [LinkedIn](Link to LinkedIn Profile)
-- [Twitter](Link to Twitter Profile)
-- [Portfolio/Blog](Link to Personal Website or Blog)
+- https://www.linkedin.com/in/darshan-jasoliya-74b3a6193
+- https://sardarvanshi.github.io/#/
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post 1](Link to Blog Post 1)
-- [Title of Blog Post 2](Link to Blog Post 2)
-<!-- BLOG-POST-LIST:END -->
-
-Feel free to explore my repositories and let's connect!
+Feel free to explore my repositories, and let's connect!
 
 Happy coding! 🚀
