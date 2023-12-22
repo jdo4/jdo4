@@ -9,9 +9,7 @@ I'm Darshan Jasoliya, a passionate Software Developer. I'm a proactive individua
 Proficient in Java, C#, Dart, C++, Swift, HTML, CSS, JS, and PHP, I offer versatility. Frameworks like Node.js, React.js, Flutter, Material UI empower me to create efficient, user-friendly apps. Tools like Git, VS Code, Jira, X-code, Android Studio, and Azure DevOps are my forte. Database management, including MySQL, SQLite, MongoDB, Firebase, and Shared Preference, adds depth to my expertise. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on @inventowise
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Open Source Projects]
-- 💬 Ask me about [Your Expertise]
+- 🌱 I’m currently learning Python and AWS
 - 📫 How to reach me: darshanjasoliya04@outlook.com, https://www.linkedin.com/in/darshan-jasoliya-74b3a6193.
 
 ## Tech Stack
