@@ -16,11 +16,13 @@ Proficient in Java, C#, Dart, C++, Swift, HTML, CSS, JS, and PHP, I offer versat
 
 ## Tech Stack
 
-- 💻 Languages: [List of Programming Languages]
-- 🚀 Frameworks: [List of Frameworks]
-- 🌐 Web Technologies: [List of Web Technologies]
-- 🛢️ Databases: [List of Databases]
-- ⚙️ Tools: [List of Tools]
+- 💻 Languages: Java, C, C#, Dart, C++, Swift, Kotlin, HTML, CSS, JavaScript, PHP
+- 🚀 Frameworks:  Android,IOS,Flutter, React, Express
+- 🌐 Web Technologies: jQuery, React.js, Node.js, Bootstrap
+- 🛢️ Databases:Oracle 11/10g, DB2, MySQL 5.x/4.x  NoSQL: MongoDB, Cassandra, Firebase, Superbase
+- ⚙️ Tools: IntelliJ IDEA, Android Studio, Eclipse, Visual Studio, NetBeans, Dreamweaver, VSCode, XCode, UnityHub
+- Testing Tools: JUnit, SOAP UI, Postman, Selenium
+- Methodologies: Agile, Scrum, Waterfall
 
 ## Projects
 
