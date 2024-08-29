@@ -10,7 +10,7 @@ Proficient in Java, C#, Dart, C++, Swift, HTML, CSS, JS, and PHP, I offer versat
 
 - 🔭 I’m currently working on @inventowise
 - 🌱 I’m currently learning Python and AWS
-- 📫 How to reach me: darshanjasoliya04@outlook.com, https://www.linkedin.com/in/darshan-jasoliya-74b3a6193.
+- 📫 How to reach me: darshanjasoliya04@outlook.com.
 
 ## Tech Stack
 
