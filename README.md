@@ -50,7 +50,7 @@ Here are some projects I'm proud of:
 
 ## Connect with Me
 
-- https://www.linkedin.com/in/darshan-jasoliya-74b3a6193
+- https://www.linkedin.com/in/darshan-jasoliya-5258a12bb/
 - https://sardarvanshi.github.io/#/
 
 Feel free to explore my repositories, and let's connect!
